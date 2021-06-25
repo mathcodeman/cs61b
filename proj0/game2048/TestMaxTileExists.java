@@ -120,6 +120,7 @@ public class TestMaxTileExists {
 
         assertTrue("One 2048 tile on board\n" + b,
                 Model.maxTileExists(b));
+
     }
 
     @Test
